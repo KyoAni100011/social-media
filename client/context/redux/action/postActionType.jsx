@@ -1,0 +1,5 @@
+const SET_POST = "SET_POST";
+const ADD_POST = "ADD_POST";
+const REMOVE_POST = "REMOVE_POST";
+
+export { SET_POST, ADD_POST, REMOVE_POST };
